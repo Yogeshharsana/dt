@@ -2,7 +2,7 @@ export const technicalSkills = [
   { name: "HTML" },
   { name: "CSS" },
   { name: "JavaScript" },
-  { name: "React" },
+  { name: "React JS" },
   { name: "C++" },
   { name: "Node.Js" },
   { name: "Express" },
